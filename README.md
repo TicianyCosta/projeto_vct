@@ -40,9 +40,8 @@ Este portfólio demonstra habilidades em todo o pipeline de análise de dados, d
 * **Desequilíbrio de Mapas:** A maioria dos mapas do VCT 2024 (como Ascent, Icebox e Sunset) demonstrou uma leve vantagem para o lado Defensor, o que é esperado em um jogo tático. A análise destacou dois mapas como "pontos fora da curva": Bind e Split. Nesses mapas, o lado Atacante mostrou uma taxa de vitória significativamente maior, indicando que as estratégias de ataque nestes mapas foram mais eficazes que as defesas.
 
 * **Popularidade de Agentes:** A análise de taxa de escolha (Pick Rate) é clara: Omen (62.9%) e Viper (61.3%) foram os agentes mais dominantes do torneio. Ter pelo menos um deles (ou ambos) em uma composição foi quase obrigatório, mostrando um meta focado em controle de visão e área.
-Entre os duelistas, Raze (48.9%) foi visivelmente mais popular que Jett (37.2%). Isso sugere que a utilidade explosiva e a capacidade de criar espaço da Raze foram mais valorizadas pelas equipes do que a mobilidade pura da Jett neste meta.
+Entre os duelistas, Raze (48.9%) foi visivelmente mais popular que Jett (37.2%). Isso sugere que a utilidade explosiva e a capacidade de criar espaço da Raze foram mais valorizadas pelas equipes do que a mobilidade pura da Jett neste meta. Já entre os sentinelas, o Cypher (41.2%) teve uma taxa de escolha mais alta que Killjoy, indicando uma preferência por coleta de informação em tempo real.
 
-Já entre os sentinelas, o Cypher (41.2%) teve uma taxa de escolha mais alta que Killjoy, indicando uma preferência por coleta de informação em tempo real.
 * **Performance de Jogadores:** A tabela "Top 10 Players" (filtrada por jogadores com mais de 100 rodadas) identifica os jogadores com maior impacto em combate (ACS). Jogadores como ZmjjKK e zekken consistentemente apareceram no topo, mostrando-se os "fraggers" mais eficazes do torneio.
 
-**Espero que tenham gostado desse projetinho que junta a área pela qual me dedico e minha paixão por games. Muito obrigada!**
+## Espero que tenham gostado desse projetinho que junta a área pela qual me dedico e minha paixão por games. Muito obrigada!
